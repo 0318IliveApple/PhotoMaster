@@ -14,6 +14,7 @@
 		6037BBE3207F89D500506D7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6037BBE1207F89D500506D7B /* LaunchScreen.storyboard */; };
 		6037BBEE207F89D500506D7B /* PhotoMasterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6037BBED207F89D500506D7B /* PhotoMasterTests.swift */; };
 		6037BBF9207F89D500506D7B /* PhotoMasterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6037BBF8207F89D500506D7B /* PhotoMasterUITests.swift */; };
+		6037BC09207F9C3C00506D7B /* furo_ducky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6037BC08207F9C3C00506D7B /* furo_ducky.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		6037BBF4207F89D500506D7B /* PhotoMasterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoMasterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6037BBF8207F89D500506D7B /* PhotoMasterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoMasterUITests.swift; sourceTree = "<group>"; };
 		6037BBFA207F89D500506D7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6037BC08207F9C3C00506D7B /* furo_ducky.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = furo_ducky.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				6037BBD8207F89D400506D7B /* AppDelegate.swift */,
 				6037BBDA207F89D400506D7B /* ViewController.swift */,
 				6037BBDC207F89D400506D7B /* Main.storyboard */,
+				6037BC08207F9C3C00506D7B /* furo_ducky.jpg */,
 				6037BBDF207F89D500506D7B /* Assets.xcassets */,
 				6037BBE1207F89D500506D7B /* LaunchScreen.storyboard */,
 				6037BBE4207F89D500506D7B /* Info.plist */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6037BC09207F9C3C00506D7B /* furo_ducky.jpg in Resources */,
 				6037BBE3207F89D500506D7B /* LaunchScreen.storyboard in Resources */,
 				6037BBE0207F89D500506D7B /* Assets.xcassets in Resources */,
 				6037BBDE207F89D400506D7B /* Main.storyboard in Resources */,
@@ -431,7 +435,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7G4R772ZVB;
+				DEVELOPMENT_TEAM = G38P4Z3EJZ;
 				INFOPLIST_FILE = PhotoMaster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -449,7 +453,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7G4R772ZVB;
+				DEVELOPMENT_TEAM = G38P4Z3EJZ;
 				INFOPLIST_FILE = PhotoMaster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
